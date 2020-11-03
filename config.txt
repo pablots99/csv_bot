@@ -1,0 +1,10 @@
+[SECTION_PATHS]
+download_path = /Users/pablo/Downloads
+output_path = /Users/pablo/Desktop
+
+[login]
+code = 
+user = 
+password = 
+date = 1/7/20
+

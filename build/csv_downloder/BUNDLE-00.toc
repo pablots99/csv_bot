@@ -1,0 +1,3 @@
+([('csv_downloder',
+   '/Users/pablo/Desktop/Lumira Dx/csvManager/dist/csv_downloder',
+   'EXECUTABLE')],)
